@@ -218,6 +218,9 @@ Zapisz parametry, nazwę metody i plik **`target_refined.pdb`** (lub `.cif`). Po
 
 **Raport:** Introduction → Materials and Methods → Results → Discussion → Conclusions → References. Powinien zawierać tabele A–D, porównawcze wykresy profili, ilustracje strukturalne, raporty walidacyjne i opis refinementu.
 
+Jeden plik od każdej jednej osoby. Projekt opcjonalnie można prezentować lub bronić, w tym wypadku należy dodatkowo wspomagać się raportami i wynikami poszczególnych narzędzi oraz analiz.
+
+<!--
 **Minimalny pakiet plików:**
 
 ```text
@@ -237,7 +240,11 @@ student_project/
 
 W `methods-and-parameters.md` zapisz wersje i daty użycia narzędzi, identyfikatory analiz, parametry oraz źródła danych. Wyniki mogą pochodzić z narzędzi internetowych lub notebooków Python/Colab.
 
-### Obowiązkowe pytania w dyskusji
+-->
+
+
+
+### Przykładowe pytania w dyskusji
 
 1. **Czy model jest wiarygodny?** Jakie dane potwierdzają tę ocenę, a jakie ją ograniczają?
 2. **Czy geometria modelu jest fizycznie realistyczna?** Jakie nieprawidłowości wykryto?
@@ -249,7 +256,7 @@ W `methods-and-parameters.md` zapisz wersje i daty użycia narzędzi, identyfika
 **Ocena:** poprawność metod (30%), interpretacja biologiczna (25%), porównanie TARGET–TEMPLATE (20%), walidacja i krytyczna ocena refinementu (15%), dokumentacja i odtwarzalność (10%). **Nie jest wymagane uzyskanie „idealnego” ani udowodnienie „stabilnego” modelu.**
 
 ---
-
+<!--
 ## Materiały i źródła
 
 - [Prezentacja prowadzącego: *Modelowanie molekularne — etapy*](#) — materiał przekazywany oddzielnie; schemat projektu i przykłady analiz.
@@ -260,3 +267,4 @@ W `methods-and-parameters.md` zapisz wersje i daty użycia narzędzi, identyfika
 - [TM-align](https://zhanggroup.org/TM-align/) · [ProSA-web](https://prosa.services.came.sbg.ac.at/prosa.php)
 
 > **Przed publikacją:** prowadzący powinien przetestować na jednej sekwencji dostępność serwisów (szczególnie starszych narzędzi), ograniczenia liczby zadań oraz przebieg refinementu. Link do prezentacji w pierwszym punkcie należy zastąpić rzeczywistą ścieżką do PDF w repozytorium albo usunąć.
+-->
