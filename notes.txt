@@ -1,1 +1,5 @@
 https://protenix-server.com - 3D structure prediction server
+https://www.reading.ac.uk/bioinf/ModFOLD/
+
+Lista narzędzi na PDB RCSB:
+https://www.rcsb.org/docs/additional-resources/structure-prediction
