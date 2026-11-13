@@ -1,4 +1,5 @@
-# Individual Protein Modeling Project
+# INSTRUKCJA
+## Individual Protein Modeling Project
 
 **From Protein Sequence to a Validated and Refined 3D Structure**  
 *Kurs Podstaw Modelowania Molekularnego — wspólna instrukcja przygotowania projektu i raportu naukowego*
