@@ -8,7 +8,7 @@
 
 Projekt wykonuje **każdy student indywidualnie**. Cztery grupy laboratoryjne korzystają z różnych głównych serwisów modelowania.
 
-**Czym jest ten dokument?** To instrukcja, **jak zaplanować i napisać przekonujący raport**, co powinien zawierać i na jakie pytania odpowiadać. Nie jest to instrukcja klikania w konkretnym serwisie. Szczegółowe działania techniczne znajdują się w osobnych checklistach dla SWISS-MODEL, I-TASSER i AlphaFold Server (oraz w materiałach przypisanych pozostałym grupom). Z tej strony korzystasz podczas **całego** projektu i podczas pisania raportu.
+**Ten dokument jest instrukcją jak zaplanować i napisać przekonujący raport**, co powinien zawierać i na jakie pytania odpowiadać. Nie jest to instrukcja klikania w konkretnym serwisie. Szczegółowe działania techniczne znajdują się w osobnych checklistach dla SWISS-MODEL, I-TASSER i AlphaFold Server (oraz w materiałach przypisanych pozostałym grupom). Z tej strony korzystasz podczas **całego** projektu i podczas pisania raportu.
 
 **Główne pytanie projektu:** *W jakim stopniu mój model 3D jest wiarygodną reprezentacją analizowanego białka, w których fragmentach jest dobrze lub słabo uzasadniony i czy przeprowadzony refinement rzeczywiście go poprawił?*
 
@@ -40,7 +40,7 @@ W raporcie wyraźnie odróżniaj **wynik otrzymany z serwisu**, **własne porów
 
 ## 1. Organizacja pracy: cztery grupy
 
-**Po co podział na grupy?** Różne metody rozwiązują struktury 3D inną drogą i proponują odmienne metryki jakości. Dlatego każdy student wykonuje **własny projekt badawczy**, a w części *Materials and Methods* i *Results* opisuje narzędzie/narzędzia przypisane swojej grupie. Nie powinno się mechanicznie kopiować interpretacji GMQE do I-TASSER ani pLDDT do SWISS-MODEL, ponieważ każde narzędzie lub ściezka analityczna ma inną specyfikę i inne parametry.
+Różne metody rozwiązują struktury 3D inną drogą i proponują odmienne metryki jakości. Dlatego każdy student wykonuje **własny projekt badawczy**, a w części *Materials and Methods* i *Results* opisuje narzędzie/narzędzia przypisane swojej grupie. Nie powinno się mechanicznie kopiować interpretacji GMQE do I-TASSER ani pLDDT do SWISS-MODEL, ponieważ każde narzędzie lub ściezka analityczna ma inną specyfikę i inne parametry.
 
 | Grupa | Główna metoda / serwis | Uwagi |
 |---|---|---|
