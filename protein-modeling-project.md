@@ -5,7 +5,7 @@
 
 > **Cel:** samodzielnie wybrać sekwencję białka (**TARGET**), znaleźć homologiczny szablon eksperymentalny (**TEMPLATE**), przeprowadzić charakterystykę sekwencji i modelowanie struktury 3D, ocenić jakość i wiarygodność modelu, zidentyfikować problematyczne regiony, wykonać refinement oraz ponownie zweryfikować wynik. **Najważniejszym zadaniem jest zbudowanie uzasadnionej, krytycznej argumentacji na podstawie wyników.**
 
-Projekt wykonuje **każdy student indywidualnie**. Cztery grupy laboratoryjne korzystają z różnych głównych serwisów modelowania, ale wykonują te same analizy i przekazują porównywalny zestaw wyników.
+Projekt wykonuje **każdy student indywidualnie**. Cztery grupy laboratoryjne korzystają z różnych głównych serwisów modelowania.
 
 **Czym jest ten dokument?** To instrukcja, **jak zaplanować i napisać przekonujący raport**, co powinien zawierać i na jakie pytania odpowiadać. Nie jest to instrukcja klikania w konkretnym serwisie. Szczegółowe działania techniczne znajdują się w osobnych checklistach dla SWISS-MODEL, I-TASSER i AlphaFold Server (oraz w materiałach przypisanych pozostałym grupom). Z tej strony korzystasz podczas **całego** projektu i podczas pisania raportu.
 
@@ -39,7 +39,7 @@ W raporcie wyraźnie odróżniaj **wynik otrzymany z serwisu**, **własne porów
 
 ## 1. Organizacja pracy: cztery grupy
 
-**Po co podział na grupy?** Różne metody dochodzą do struktury 3D inną drogą i proponują odmienne metryki jakości. Dlatego każdy student wykonuje **ten sam projekt badawczy**, ale w części *Materials and Methods* i *Results* opisuje narzędzie przypisane swojej grupie. Nie wolno mechanicznie kopiować interpretacji GMQE do I-TASSER ani pLDDT do SWISS-MODEL.
+**Po co podział na grupy?** Różne metody rozwiązują struktury 3D inną drogą i proponują odmienne metryki jakości. Dlatego każdy student wykonuje **własny projekt badawczy**, a w części *Materials and Methods* i *Results* opisuje narzędzie/narzędzia przypisane swojej grupie. Nie powinno się mechanicznie kopiować interpretacji GMQE do I-TASSER ani pLDDT do SWISS-MODEL, ponieważ każde narzędzie lub ściezka analityczna ma inną specyfikę i inne parametry.
 
 | Grupa | Główna metoda / serwis | Uwagi |
 |---|---|---|
@@ -48,7 +48,7 @@ W raporcie wyraźnie odróżniaj **wynik otrzymany z serwisu**, **własne porów
 | **3** | [Phyre2](https://www.sbg.bio.ic.ac.uk/phyre2/html/page.cgi) | Rozpoznawanie fałdu i modelowanie z wykorzystaniem szablonów; dostępność należy sprawdzić przed zajęciami |
 | **4** | [AlphaFold Server](https://alphafoldserver.com/) **+ SWISS-MODEL** | AlphaFold to predykcja AI, a nie klasyczne modelowanie homologiczne; obowiązkowy dodatkowy model SWISS-MODEL zapewnia realizację celu kursu |
 
-**Instrukcje techniczne dla grup:** [SWISS-MODEL](./swiss-model-student-checklist.md) · [I-TASSER](./i-tasser-student-checklist.md) · [AlphaFold Server](./alphafold-server-student-checklist.md). To w nich znajdziesz dokładne operacje w poszczególnych serwisach. Linki zakładają, że wszystkie instrukcje znajdują się w tym samym katalogu repozytorium. Dla grupy Phyre2 zostanie udostępniona osobna checklista.
+**Instrukcje techniczne dla grup:** [SWISS-MODEL](./swiss-model-student-checklist.md) · [I-TASSER](./i-tasser-student-checklist.md) · [AlphaFold Server](./alphafold-server-student-checklist.md). To w nich znajdziesz dokładne operacje w poszczególnych serwisach.
 
 **Uwaga organizacyjna:** przed przydziałem grup prowadzący sprawdza aktualne limity, warunki korzystania, rejestrację i dostępność serwisów. W razie niedostępności usługi dopuszczalny jest serwis zastępczy uzgodniony z prowadzącym. Obliczenia I-TASSER i niektórych innych serwisów należy uruchomić odpowiednio wcześniej. W trakcie oczekiwania można wykonywać etapy 3–5.
 
